@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1><font color='red'>Vaibhav Bhatnagar's Test... <font></h1>
+
   <h2> this test is from git hub.</h2>
   <h3>Turn up the lights </h3>
 
